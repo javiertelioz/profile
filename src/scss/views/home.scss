@@ -1,0 +1,18 @@
+.home {
+  width: 100%;
+  min-height: 100%;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.courses-list {
+  h1 {
+    margin: 0.5rem 0 0 0;
+  }
+}
+
+.logo-navbar {
+  max-width: 100px;
+}
